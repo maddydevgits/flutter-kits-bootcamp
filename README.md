@@ -65,6 +65,11 @@ Try the following exercises after setup:
    - Create two screens: HomeScreen and SecondScreen
    - Add a button on HomeScreen to navigate to SecondScreen
    - On SecondScreen, display a back button or use Navigator.pop(context) to return
+7. **Stateful Widget**
+   Implement a basic screen demonstrating a stateful widget
+   - Create a HomeScreen
+   - Display a Counter value using Text widget
+   - Use ElevatedButton to update the state 
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
