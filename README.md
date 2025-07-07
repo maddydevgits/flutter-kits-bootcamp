@@ -6,7 +6,7 @@ This 6-day program is designed to introduce students to the power and simplicity
 
 ---
 
-## 📌 About the FDP
+## 📌 About the Session
 
 - **🗓️ Duration:** 6 Days  
 - **🎯 Target Audience:** Students from IT Department 
