@@ -71,10 +71,11 @@ Try the following exercises after setup:
    - Display a Counter value using Text widget
    - Use ElevatedButton to update the state
 8. **Provider Management**
-   Implement a basic screen demonstrating a provider widget (pubspec.yaml file has to be updated) 
+   Implement a basic screen demonstrating a provider widget 
    - Create a HomeScreen
    - Display a Counter Value using Text widget
    - Use ElevatedButton to update the data using provider
+   - (pubspec.yaml file has to be updated)
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
