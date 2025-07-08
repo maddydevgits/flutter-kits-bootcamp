@@ -69,7 +69,8 @@ Try the following exercises after setup:
    Implement a basic screen demonstrating a stateful widget
    - Create a HomeScreen
    - Display a Counter value using Text widget
-   - Use ElevatedButton to update the state 
+   - Use ElevatedButton to update the state
+8. **Provider Management**
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
