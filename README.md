@@ -76,6 +76,10 @@ Try the following exercises after setup:
    - Display a Counter Value using Text widget
    - Use ElevatedButton to update the data using provider
    - (pubspec.yaml file has to be updated)
+9. **Custom Widgets**
+    Implement Custom Widgets in the flutter application
+   - Create a HomeScreen
+   - Displaying custom widgets by passing some information
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
