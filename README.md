@@ -80,6 +80,10 @@ Try the following exercises after setup:
     Implement Custom Widgets in the flutter application
    - Create a HomeScreen
    - Displaying custom widgets by passing some information
+10. **Form and Form Validation**
+    Implement the Form Screen to get input data in the flutter application
+    - Create a FormScreen
+    - Form Inputs, Input Validation
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
