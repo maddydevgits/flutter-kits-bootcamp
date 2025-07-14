@@ -84,6 +84,12 @@ Try the following exercises after setup:
     Implement the Form Screen to get input data in the flutter application
     - Create a FormScreen
     - Form Inputs, Input Validation
+11. **Animations in Flutter**
+    Implement the multi tab screen doing basic animations
+    - Create an Animation Home Page
+    - Fade Animation
+    - Slide Animation
+    - Scale Animation
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
