@@ -90,6 +90,9 @@ Try the following exercises after setup:
     - Fade Animation
     - Slide Animation
     - Scale Animation
+12. **API in Flutter**
+    Implement the API functionality in Flutter
+    - Try fetching data from API
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
