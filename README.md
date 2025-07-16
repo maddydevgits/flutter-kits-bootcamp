@@ -93,6 +93,9 @@ Try the following exercises after setup:
 12. **API in Flutter**
     Implement the API functionality in Flutter
     - Try fetching data from API
+13. **Unit Test Cases in Flutter**
+    Implement a counter screen
+    - Write unit test cases for this counter screen
 
 JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
